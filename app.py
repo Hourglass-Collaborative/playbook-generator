@@ -3,7 +3,7 @@ import base64
 import codecs
 from formatting import format_html
 from datetime import date
-from fpdf import FPDF
+#from fpdf import FPDF
 
 st.title("G.O.O.D. Innovation Playbook Generator")
 st.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis feugiat, orci vel iaculis malesuada, diam tortor scelerisque ligula, a accumsan mauris justo nec dui. Pellentesque tincidunt lectus quis facilisis aliquet. Suspendisse ac consequat lectus. Proin lacinia lobortis maximus. Pellentesque eros libero, fringilla vitae sodales a, placerat ut mi. Curabitur sed tincidunt mi, quis pellentesque justo. Vivamus commodo, sem sit amet tempor sagittis, tellus quam maximus quam, et tincidunt mi ligula eget arcu. Praesent ac orci commodo, lacinia lacus vel, semper magna. Nunc pulvinar imperdiet nibh at aliquet.")
