@@ -1,0 +1,5 @@
+streamlit
+FPDF
+base64
+codecs
+date
